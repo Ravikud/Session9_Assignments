@@ -1,0 +1,33 @@
+
+
+[
+   {
+     "student_rollno" : "1",
+     "student_name" : "Ravi",
+     "student_subject" : "science",
+	 "student_marks" : "80"
+   },
+    {
+     "student_rollno" : "2",
+     "student_name" : "Sagar",
+     "student_subject" : "science",
+	 "student_marks" : "90"
+   },
+    {
+     "student_rollno" : "3",
+     "student_name" : "d",
+     "student_subject" : "science",
+	 "student_marks" : "50",
+	 "age":"34"
+   
+},
+{
+     "student_rollno" : "4",
+     "student_name" : "f",
+     "student_subject" : "maths",
+	 "student_marks" : "56",
+	 "age":"34"
+   
+}
+   
+ ]

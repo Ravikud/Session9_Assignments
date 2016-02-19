@@ -1,0 +1,9 @@
+{
+  "name" : "Example_json_depenedency",
+  "description" : "How to use package_json for module depenedency",
+  "version" : "0.0.1",
+  "private" : false,
+  "dependencies" : {
+      "change-case" : "*"
+  }
+}
